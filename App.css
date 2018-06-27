@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+  min height: 800px;
+  width:1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.App-Header {
+  height: 100px;
+  width: 1000px;
+  background-color: blue;
+  color: white;
+}
+
+.App-Main {
+  float: left;
+  width: 700px;
+  height: 700px;
+  background-color: yellow;
+}
+
+.App-Nav {
+  float: right;
+  height: 700px;
+  width: 300px;
+  background-color: purple;
+  color: white;
+}
+
+.App-Footer{
+  width: 1000px;
+  height: 750px;
+  color: red;
+  background-color:black;
+}
